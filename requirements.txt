@@ -1,0 +1,8 @@
+torch
+transformers
+datasets
+evaluate
+rouge_score
+sentencepiece
+pandas
+scikit-learn
